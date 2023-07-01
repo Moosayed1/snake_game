@@ -1,7 +1,5 @@
 #include <tuple>
 
-
-
 class Fruit
 {
 private:
